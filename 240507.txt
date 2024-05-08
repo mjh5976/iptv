@@ -54,5 +54,5 @@ CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 延边卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
 云南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
-凤凰中文,https://live.hoolo.tv/hztv3/playlist.m3u8?auth_key=1707366278-0-0-2c30110f7fb40ed3c8a5dfe70ee44b76
+凤凰中文,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
 
